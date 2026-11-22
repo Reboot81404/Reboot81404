@@ -22,14 +22,6 @@ I'm a computer engineering graduate interested in building practical software so
 
 I enjoy working across different areas of software development, with a particular interest in backend engineering, system programming, and financial technologies.
 
-### About Me
-
-- Computer Engineering graduate.
-- Interested in backend development and software architecture.
-- Exploring system programming and low-level concepts.
-- Interested in banking systems and financial technologies.
-- I enjoy building practical projects and learning by developing.
-
 ### Technologies & Tools
 
 **Tools & Environment**
