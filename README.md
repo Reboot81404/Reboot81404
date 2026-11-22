@@ -38,11 +38,6 @@ I enjoy working across different areas of software development, with a particula
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-
-### GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reboot81404&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reboot81404&layout=compact&theme=transparent&hide_border=true)
 
 ---
