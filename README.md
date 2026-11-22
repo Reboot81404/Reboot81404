@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Sefa
+# 👋 Hi, I'm Sefa
 
 **Computer Engineer | Software Developer**
 
@@ -38,16 +38,6 @@ I enjoy working across different areas of software development, with a particula
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Featured Projects
-
-| Project | Description | Technology |
-|---|---|---|
-| [corebanking](https://github.com/Reboot81404/corebanking) | A project exploring core banking systems. | Java |
-| [WebFiles](https://github.com/Reboot81404/WebFiles) | A minimalist file manager for homelab environments. | Go |
-| [breaker-tr](https://github.com/Reboot81404/breaker-tr) | A software project focused on breaking-related functionality. | Python |
-| [breaker-front](https://github.com/Reboot81404/breaker-front) | Frontend application for the Breaker project. | Svelte |
-| [Password-Generator](https://github.com/Reboot81404/Password-Generator) | A password generation tool. | JavaScript |
-| [keyboard-lock](https://github.com/Reboot81404/keyboard-lock) | A utility for keyboard locking. | Shell |
 
 ### GitHub Statistics
 
@@ -56,6 +46,3 @@ I enjoy working across different areas of software development, with a particula
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reboot81404&layout=compact&theme=transparent&hide_border=true)
 
 ---
-
-*Building, learning, and improving one project at a time.*
-
