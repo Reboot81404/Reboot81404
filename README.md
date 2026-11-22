@@ -22,6 +22,8 @@ I'm a computer engineering graduate interested in building practical software so
 
 I enjoy working across different areas of software development, with a particular interest in backend engineering, system programming, and financial technologies.
 
+---
+
 **Tools & Environment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
